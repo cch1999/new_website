@@ -1,11 +1,11 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Charlie Harris"
+secondary_name: "Charles"
+navbar_name: "Charlie Harris"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Peking University (2021)'
+  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="University of Cambridge" class="inline-badge"/></span> PhD Student'
 
-email: "your@email.com"
+email: "cch57@cam.ac.uk"
 gscholar: your_google_scholar_id
 github: your_github_id
 twitter: your_twitter_id
@@ -21,7 +21,7 @@ short_bio: >-
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
 show_portrait: true
-portrait_url: assets/images/photos/portrait.jpg
+portrait_url: assets/images/photos/portrait.png
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash.
 
@@ -39,7 +39,7 @@ education:
 
 
 awards:
-- name: Award Name 2
+- name: Polaris Fellowship
   date: 2024
 - name: Award Name 1 
   date: 2021
