@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   This work introduces SynFlowNet, a GFlowNet model whose action space uses chemically validated reactions and reactants to sequentially build new molecules. We evaluate our approach using synthetic accessibility scores and an independent retrosynthesis tool. SynFlowNet consistently samples synthetically feasible molecules, while still being able to find diverse and high-utility candidates.
-cover:          https://github.com/mirunacrt/synflownet/raw/main/docs/synflownet_logo.png
+cover:          assets/images/covers/synflownet.png
 authors:
   - Miruna Cretu
   - Charles Harris

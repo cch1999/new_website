@@ -7,7 +7,7 @@ pub:            "MLSB Workshop @ NeurIPS 2023"
 pub_date:       "2023"
 abstract: >-
  We introduce PoseCheck, an extensive analysis of multiple state-of-the-art methods and find that generated molecules have significantly more physical violations and fewer key interactions compared to baselines, calling into question the implicit assumption that providing rich 3D structure information improves molecule complementarity. We make recommendations for future research tackling identified failure modes and hope our benchmark will serve as a springboard for future SBDD generative modelling work to have a real-world impact.
-cover:          https://github.com/cch1999/posecheck/raw/main/data/posecheck_logo.png
+cover:   assets/images/covers/posecheck.png
 authors:
 - Charles Harris
 - Kieran Didi
