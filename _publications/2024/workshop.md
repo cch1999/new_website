@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   In the benchmark, we implement numerous featurisation schemes, datasets for self-supervised pre-training and downstream evaluation, pre-training tasks, and auxiliary tasks. The benchmark can be used as a working template for a protein representation learning research project, a library of drop-in components for use in your projects, or as a CLI tool for quickly running protein representation learning evaluation and pre-training configurations. 
-cover:          https://proteins.sh/_static/workshop_icon.png
+cover:          assets/images/covers/workshop_icon.png
 authors:
   - Arian Jamasb
   - Alex Morehead

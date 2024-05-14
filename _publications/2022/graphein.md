@@ -10,7 +10,7 @@ pub_date:       "2022"
 
 abstract: >-
   DiffSBDD 
-cover:          https://github.com/a-r-j/graphein/blob/master/imgs/graphein.png?raw=true
+cover:          assets/images/covers/graphein.png
 authors:
   - Arian Jamasb
   - Ramon Vinas Torne
