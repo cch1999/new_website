@@ -10,7 +10,7 @@ pub_date:       "2023"
 
 abstract: >-
   DiffSBDD 
-cover:          https://miro.medium.com/v2/resize:fit:1400/1*YVAA3CzJzvDrk_XvMXWbMw.png
+cover:          assets/images/covers/inpainting.png
 authors:
   - Charles Harris
   - Keiran Didi
