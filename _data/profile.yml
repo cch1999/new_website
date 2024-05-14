@@ -30,16 +30,24 @@ education:
   logo: assets/images/badges/PKU_red.png
   position: PhD in Computer Science
   date: Oct. 2021 - Present
+- name: Imperial College London
+  logo: assets/images/badges/PKU_red.png
+  position: MSc in Bioinformatics and Theoretical Systems Biology
+  date: Oct. 2020 - Sept. 2021
+- name: Imperial College London
+  logo: assets/images/badges/PKU_red.png
+  position: BSc in Biochemisty
+  date: Oct. 2017 - June. 2020
 
 experience:
-- name: Peking University
-  logo: assets/images/badges/PKU_red.png
-  position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+- name: BenevolentAI
+  logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA0ElEQVR4AWMAgf/77Rr+77f5jxMfsPkHpO8A6ZX/jziqM6AChAHEYdsf/w/Y25JlAMJFttfwGGB7ANOFDjJA8T0ohhx1E8NjACYAOtsX1SUOCqS4gOX/AbuJSAa8+P+/gQmXAR9AhqDhNygxctAunrxAPGD7HOQVCqPR5sb/wzZq+Ay4APSzAwo+aBcGdPp5JJfcAoULSbEANEQVzSU+pBlw2EYQ1QC7EuKj8aSzMNDZs1EMOGgXjWEASfnhqJM8BQbYVZATjS/A+eGQrTeyXgA2BAhhJVLYcwAAAABJRU5ErkJggg==
+  position: Machine Learning Research Intern
+  date: July 2022 - Oct. 2022
 
 
 awards:
+- name: UK-Italy Visiting Researcher Fellowshop 
+  date: 2024
 - name: Polaris Fellowship
   date: 2024
-- name: Award Name 1 
-  date: 2021
