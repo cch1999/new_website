@@ -1,8 +1,8 @@
 ---
-title:          "SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways"
-date:           2024-05-01 00:01:00 +0800
+title:          "Structure-based Drug Design with Equivariant Diffusion Models"
+date:           2022-08-01 00:01:00 +0800
 selected:       true
-pub:            "GEM Bio Workshop @ ICLR"
+pub:            "MLSB @ NeurIPS 2022"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
