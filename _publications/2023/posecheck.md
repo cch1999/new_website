@@ -1,6 +1,6 @@
 ---
 title:          "PoseCheck: Generative Models for 3D Structure-based Drug Design Produce Unrealistic Poses"
-date:           2023-01-05 00:01:00 +0800
+date:           2023-11-05 00:01:00 +0800
 selected:       true
 pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 pub:            "MLSB Workshop @ NeurIPS 2023"
@@ -14,8 +14,9 @@ authors:
 - Arian Jamasb
 - Chaitanya Joshi
 - Simon Mathis
-- Pietro Lio
+- Pietro Liò
 - Tom Blundell
 links:
-  Paper: https://www.cell.com
+  Paper: https://arxiv.org/abs/2308.07413
+  Code: https://github.com/cch1999/posecheck
 ---
