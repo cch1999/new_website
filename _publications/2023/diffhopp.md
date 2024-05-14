@@ -13,7 +13,7 @@ authors:
   - Jos Torge
   - Charles Harris
   - Simon Mathis
-  - Charles Harris
+  - Pietro Liò
 links:
   Paper: https://arxiv.org/abs/2308.07416
   Code: https://github.com/jostorge/diffusion-hopping

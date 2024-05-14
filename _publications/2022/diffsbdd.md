@@ -2,22 +2,29 @@
 title:          "Structure-based Drug Design with Equivariant Diffusion Models"
 date:           2022-08-01 00:01:00 +0800
 selected:       true
-pub:            "MLSB @ NeurIPS 2022"
+pub:            "MLSB @ NeurIPS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
-pub_date:       "2024"
+pub_date:       "2022"
 
 abstract: >-
-  Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
-cover:          https://github.com/mirunacrt/synflownet/raw/main/docs/synflownet_logo.png
+  DiffSBDD 
+cover:          https://miro.medium.com/v2/resize:fit:1400/1*YVAA3CzJzvDrk_XvMXWbMw.png
 authors:
-  - Miruna Cretu
+  - Arne Schneuing
+  - Yuanqi Du
   - Charles Harris
-  - Julien Roy
-  - Emmanuel Bengio
-  - Pietro Liò
+  - Arian Jamasb
+  - Ilia Igashov
+  - Weitao Du
+  - Tom Blundell
+  - Pietro Lió
+  - Carla Gomes
+  - Max Welling
+  - Michael Bronstein
+  - Bruno Correia 
 links:
-  Code: https://github.com/mirunacrt/synflownet
-  Paper: https://arxiv.org/pdf/2405.01155v1
+  Code: https://github.com/arneschneuing/DiffSBDD
+  Paper: https://arxiv.org/abs/2210.13695
 ---
