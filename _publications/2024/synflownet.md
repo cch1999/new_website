@@ -1,7 +1,7 @@
 ---
 title:          "SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways"
 date:           2024-05-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "GEM Bio Workshop @ ICLR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
