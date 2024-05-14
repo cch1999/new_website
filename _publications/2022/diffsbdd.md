@@ -1,6 +1,6 @@
 ---
 title:          "DiffSBDD: Structure-based Drug Design with Equivariant Diffusion Models"
-date:           2022-08-01 00:01:00 +0800
+date:           2022-12-01 00:01:00 +0800
 selected:       true
 pub:            "MLSB @ NeurIPS"
 # pub_pre:        "Submitted to "
