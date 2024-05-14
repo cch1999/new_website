@@ -1,11 +1,11 @@
 ---
 title:          "Graphein - a Python Library for Geometric Deep Learning and Network Analysis on Protein Structures and Interaction Networks"
 date:           2022-08-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "NeurIPS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
+# pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 pub_date:       "2022"
 
 abstract: >-

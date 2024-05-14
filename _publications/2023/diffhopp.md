@@ -3,7 +3,7 @@ title:          DiffHopp
 date:           2023-06-21 00:01:00 +0800
 selected:       false
 pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "CompBio Workshop @ ICLR"
 pub_date:       "2023"
 abstract: >-
   DiffHopp is an equivariant diffusion model for scaffold hopping.
