@@ -1,8 +1,8 @@
 ---
-title:          SynFlowNet
-date:           2024-05-12 00:01:00 +0800
+title:          "SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways"
+date:           2024-05-01 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+pub:            "GEM Bio Workshop @ ICLR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
@@ -12,10 +12,12 @@ abstract: >-
   Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
 cover:          assets/images/covers/cover3.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Miruna Cretu
+  - Charles Harris
+  - Julien Roy
+  - Emmanuel Bengio
+  - Pietro Liò
 links:
-  Code: https://github.com/luost26/ChemProjector
+  Code: https://github.com/mirunacrt/synflownet
+  Paper: https://arxiv.org/pdf/2405.01155v1
 ---

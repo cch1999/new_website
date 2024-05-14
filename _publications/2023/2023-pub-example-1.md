@@ -1,7 +1,8 @@
 ---
-title:          Lorem ipsum dolor sit amet, consectetur adipiscing elit
+title:          PoseCheck: 
 date:           2023-01-05 00:01:00 +0800
 selected:       true
+pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 pub:            "Nature Communications"
 pub_date:       "2023"
 abstract: >-
