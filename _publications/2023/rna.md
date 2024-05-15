@@ -21,4 +21,5 @@ authors:
   - Pietro Lió
 links:
   Paper: https://arxiv.org/abs/2305.14749
+  Code: https://github.com/chaitjo/geometric-rna-design
 ---

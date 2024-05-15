@@ -24,6 +24,6 @@ authors:
   - Pietro Lió
   - Tom Blundell
 links:
-  Code: https://github.com/a-r-j/ProteinWorkshop
   Paper: https://openreview.net/forum?id=sTYuRVrdK3
+  Code: https://github.com/a-r-j/ProteinWorkshop
 ---

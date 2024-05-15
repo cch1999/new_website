@@ -9,7 +9,7 @@ pub:            "NeurIPS"
 pub_date:       "2022"
 
 abstract: >-
-  DiffSBDD 
+  Graphien is an easy to use package to turn structural biology data into machine learning ready data formats, notably for graph neural networks.
 cover:          assets/images/covers/graphein.png
 authors:
   - Arian Jamasb
@@ -22,6 +22,6 @@ authors:
   - Pietro Lió
   - Tom Blundell
 links:
-  Code: https://github.com/arj/graphein
   Paper: https://proceedings.neurips.cc/paper_files/paper/2022/hash/ade039c1db0391106a3375bd2feb310a-Abstract-Conference.html
+  Code: https://github.com/arj/graphein
 ---

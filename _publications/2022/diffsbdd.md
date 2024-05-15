@@ -25,6 +25,6 @@ authors:
   - Michael Bronstein
   - Bruno Correia 
 links:
-  Code: https://github.com/arneschneuing/DiffSBDD
   Paper: https://arxiv.org/abs/2210.13695
+  Code: https://github.com/arneschneuing/DiffSBDD
 ---
