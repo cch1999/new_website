@@ -12,9 +12,9 @@ abstract: >-
   DiffSBDD 
 cover:          https://miro.medium.com/v2/resize:fit:1400/1*YVAA3CzJzvDrk_XvMXWbMw.png
 authors:
-  - Arne Schneuing
-  - Yuanqi Du
-  - Charles Harris
+  - Arne Schneuing**
+  - Yuanqi Du*
+  - Charles Harris*
   - Arian Jamasb
   - Ilia Igashov
   - Weitao Du
