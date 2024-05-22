@@ -9,7 +9,7 @@ pub:            "MLDD @ ICLR"
 pub_date:       "2023"
 
 abstract: >-
-  DiffSBDD 
+  This work extended the use of DiffSBDD to various subtasks in SBDD, such as fragment linking and compounds optimisation. 
 cover:          assets/images/covers/painting.png
 authors:
   - Charles Harris

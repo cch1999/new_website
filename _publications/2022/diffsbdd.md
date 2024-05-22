@@ -9,7 +9,7 @@ pub:            "MLSB Workshop @ NeurIPS"
 pub_date:       "2022"
 
 abstract: >-
-  DiffSBDD 
+  DiffSBDD was one of the first equivariant diffusion models for structure-based drug design.
 cover:          https://miro.medium.com/v2/resize:fit:1400/1*YVAA3CzJzvDrk_XvMXWbMw.png
 authors:
   - Arne Schneuing**
